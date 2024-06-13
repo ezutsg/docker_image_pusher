@@ -2,4 +2,4 @@ xiaoyaliu/alist
 haroldli/xiaoya-tvbox
 xiaoyaliu/glue
 ddsderek/xiaoya-emd
-#小雅相关周边https://blog.ddsrem.com/archives/alist-xiaoya
+#小雅相关周边
